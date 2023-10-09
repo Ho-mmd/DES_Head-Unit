@@ -1,0 +1,3 @@
+[submodule "app-hu"]
+	path = app-hu
+	url = git@github.com:SEA-ME-Team4/app-hu.git
