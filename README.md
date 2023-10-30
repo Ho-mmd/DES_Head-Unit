@@ -1,6 +1,6 @@
 # DES_Head-Unit
 The head unit Qt application running on Raspberry Pi (RPi) alongside the instrument cluster Qt application
-[![123](https://github.com/SEA-ME-Team4/DES_Head-Unit/assets/120576021/b49552e7-e2ee-4cdd-96e3-c9a0f79f90e1)](docs/DES_Head-Unit.pdf)
+[![123](https://github.com/SEA-ME-Team4/DES_Head-Unit/assets/120576021/b49552e7-e2ee-4cdd-96e3-c9a0f79f90e1)](https://github.com/SEA-ME-Team4/DES_Head-Unit/blob/main/docs/DES_Head-Unit.pdf)
 
 ## [app-hu](https://github.com/SEA-ME-Team4/app-hu/tree/6638c8387d873ca45630762a8e2856634d955ef9)
 
