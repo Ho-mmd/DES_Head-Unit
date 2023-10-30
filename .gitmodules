@@ -1,6 +1,6 @@
-[submodule "app-hu"]
-	path = app-hu
-	url = git@github.com:SEA-ME-Team4/app-hu.git
-[submodule "meta-hu"]
-	path = meta-hu
-	url = git@github.com:SEA-ME-Team4/meta-hu.git
+[submodule "meta-des"]
+	path = meta-des
+	url = https://github.com/SEA-ME-Team4/meta-des
+[submodule "app-des"]
+	path = app-des
+	url = https://github.com/SEA-ME-Team4/app-des
